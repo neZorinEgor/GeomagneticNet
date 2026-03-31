@@ -1,2 +1,4 @@
 .venv
 **.dat
+data/train/*
+data/train.csv
